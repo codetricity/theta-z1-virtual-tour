@@ -3,6 +3,12 @@
 Indoor and outdoor virtual tour demo made with the open source software 
 http://www.marzipano.net
 
+## Web Demo
+
+[https://codetricity.github.io/theta-z1-virtual-tour/](https://codetricity.github.io/theta-z1-virtual-tour/)
+
+## Comparison to X and Workflow
+
 There is another tour taken with the X at the same time for comparison.
 
 The Z1 images are 6.7K JPG taken with default automatic settings.  It uses the timeshift plug-in to get the photographer out of the picture.
