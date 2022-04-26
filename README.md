@@ -3,9 +3,16 @@
 Indoor and outdoor virtual tour demo made with the open source software 
 http://www.marzipano.net
 
-## Web Demo
+## Web Demo Comparison
+
+### THETA Z1
 
 [https://theta360developers.github.io/theta-z1-virtual-tour/](https://theta360developers.github.io/theta-z1-virtual-tour/)
+
+### THETA X
+
+[https://theta360developers.github.io/theta-x-virtual-tour/](https://theta360developers.github.io/theta-x-virtual-tour/)
+
 
 ## Comparison to X and Workflow
 
