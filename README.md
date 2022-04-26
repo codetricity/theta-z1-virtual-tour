@@ -5,7 +5,7 @@ http://www.marzipano.net
 
 ## Web Demo
 
-[https://codetricity.github.io/theta-z1-virtual-tour/](https://codetricity.github.io/theta-z1-virtual-tour/)
+[https://theta360developers.github.io/theta-z1-virtual-tour/](https://theta360developers.github.io/theta-z1-virtual-tour/)
 
 ## Comparison to X and Workflow
 
